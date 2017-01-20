@@ -1,0 +1,38 @@
+<!docktype html>
+<html>
+ <head>
+  <link href='style.css' rel='stylesheet'
+  type='text/css'>
+  <meta charset="utf-8">
+  <meta name="description" content="A very cool website about Captain America!">
+  <meta name="viewport" content="width=device-width, initial-scale=1"
+  <title>Super Details</title>
+  <link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+  <style>
+   
+   </style>
+ </head>
+ <body>
+ <header class="site-header">
+   <h1 class="site-title">Super Details<h1>
+   <p class="site-description">A very cool website about Captain America!</p>
+ </header>
+ <nav class="site-navigation">
+  <ul>
+   <li><a href="#">Where he was born</a></li>
+   <li><a href="#">What his shield is made out of</a></li>
+   <li><a href="#"How he became</a></li>
+  </ul>
+  </nav>
+  <section class="site-content">
+   <article>
+    <h1>The shield</h1>
+    <p>Captain America's shield is made out of a metal called vibranium wich was developed by Howard Stark{Tony starks dad}</p>
+    <img src="superdetailswebsite.github.io/images (1).jpg" alt="Captain America">
+    </article>
+   </section>
+   <footer class="site-footer">Copyright &copy; Super Details | Thanks for visiting!</footer>
+ </body>
+</html>
+   
